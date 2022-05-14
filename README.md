@@ -1,4 +1,4 @@
-Hi! I'm Mario and this is my student and personal Git-Hub page.
+Hi! 👋 I'm Mario and this is my student and personal GitHub page.
 
 I am interested and currently learning machine learning applications, but I enjoy any fun programming task!
 
