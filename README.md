@@ -1,6 +1,6 @@
-Hi! 👋 I'm Mario and this is my student and personal GitHub page.
+Hi! 👋 I'm Mario and this is my and personal GitHub page.
 
-I am interested and currently learning machine learning applications, but I enjoy any fun programming task!
+I am interested on machine learning applications, but I enjoy any fun programming task!
 
 Feel free to explore my repositories :)
 
